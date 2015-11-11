@@ -19,6 +19,8 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 1 teaspoon salt
 - 2 teaspoons pure vanilla extract
 - 2 large eggs
+- 3 cups buttercream icing
+- 2 teaspoons orange food coloring
 
 
 ##Dry Ingredients
